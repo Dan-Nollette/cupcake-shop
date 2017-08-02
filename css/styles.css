@@ -1,0 +1,10 @@
+img {
+    width: 400px;
+}
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: green;
+}
