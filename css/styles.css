@@ -8,3 +8,14 @@ a {
 a:hover {
   color: green;
 }
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  font-size: 75px;
+  color: purple;
+  background-color: green;
+}
